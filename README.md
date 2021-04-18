@@ -2,16 +2,23 @@
 ## Winners of 2021 French Open Championship
 
 **Title** 
-
-Should express the problem in the least boring but factually accurate way. It might be interesting to ask a question.
+Predicting Tennis Results: Winners of 2021 French Open Championship
 
 **Abstract**    
 
-1-2 paragraphs of 200–250 words. Should concisely state the problem, why it is important, and give some indication of what you accomplished (2-3 discoveries)
+Leveraging the ATP and WTA results of matches to predict who will win the 2021 French Open championship, men’s and women’s singles.
+Beneficial for players, betters, telecasts (commentators), sportsbook companies and sponsors
 
 **Introduction**    
 
-State your data and research question(s). Indicate why it is important. Describe your research plan so that readers can easily follow your thought process and the flow of the report. Please also include key results at the beginning so that readers know what to look for. Here you can very briefly mention any important data cleaning or preparation. Do not talk about virtual results i.e. things you tried or wanted to do but didn't do. Virtual results are worse than worthless. They highlight failure.
+State your data and research question(s):
+-Probability of winning based on women's weights.
+-Probability of winning based on men's heights.
+
+. Indicate why it is important:
+
+Describe your research plan so that readers can easily follow your thought process and the flow of the report. 
+Please also include key results at the beginning so that readers know what to look for. Here you can very briefly mention any important data cleaning or preparation. Do not talk about virtual results i.e. things you tried or wanted to do but didn't do. Virtual results are worse than worthless. They highlight failure.
 
 **Background**
 Discuss other relevant work on solving this problem. Most of your references are here. Cite all sources. There is no specific formatting requirement for citations but be consistent.
