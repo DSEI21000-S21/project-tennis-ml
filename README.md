@@ -28,7 +28,9 @@ Discuss other relevant work on solving this problem. Most of your references are
 The Tennis-Data Betting, Results and Livescores Portal provides historical computer-ready (CSV and Excel format) results and fixed odds betting data from the men's ATP and women's WTA tours to help tennis betting enthusiasts develop quantitative tennis betting systems with a view to forecasting and generating a profit at the bookmakers.
 
 **Describe the variables.**
-You can begin discussing the data wrangling, and data cleaning. Some EDA may happen here. This includes your data source (including URL if applicable), any articles behind the data source.
+You can begin discussing the data wrangling, and data cleaning. Some EDA may happen here. 
+This includes your data source (including URL if applicable): http://www.tennis-data.co.uk/notes.txt
+Any articles behind the data source.
 
 **Methods**
 How did you take your data and set up the problem? Describe things like normalization, feature selection, the models you chose. In this section, you may have EDA and graphs showing the exploration of hyper-parameters. Note: Use graphs to illustrate interesting relationships that are important to your final analyses. DO NOT just show a bunch of graphs because you can. You should label and discuss every graph you include. There is no required number to include. The graphs should help us understand your analysis process and illuminate key features of the data.
@@ -44,6 +46,7 @@ Using the number and size of github commits by the author (bar graph), and the g
 
 **Bibiliiography**
 References should appear at the end of the report/notebook. Again, no specific format is required but be consistent.
+
 
 **Appendex**
 If there are minor results and graphs that you think should be included, put them at the end. Do not include anything without an explanation. No random graphs just for padding!! However, let’s say you did a 50 state analysis of poverty and demographics, and your report focused on the 5 most interesting states, for completeness you could include all in an appendix. Be sure though to provide some (very short) discussion with each figure/code/result.
