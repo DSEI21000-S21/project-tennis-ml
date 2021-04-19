@@ -12,11 +12,11 @@ Beneficial for players, betters, telecasts (commentators), sportsbook companies 
 
 **Introduction**         
 
-State your data and research question(s):     
+**State your data and research question(s):**    
 -Probability of winning based on women's weights.       
 -Probability of winning based on men's heights.     
 
-. Indicate why it is important:      
+ **Indicate why it is important:**      
 
 Describe your research plan so that readers can easily follow your thought process and the flow of the report.       
 Please also include key results at the beginning so that readers know what to look for. Here you can very briefly mention any important data cleaning or preparation. Do not talk about virtual results i.e. things you tried or wanted to do but didn't do. Virtual results are worse than worthless. They highlight failure.      
