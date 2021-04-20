@@ -11,9 +11,9 @@ Beneficial for players, betters, telecasts (commentators), sportsbook companies 
 
 **Introduction**         
 
-**State your data and research question(s):**    
--Probability of winning based on women's weights.       
--Probability of winning based on men's heights.     
+**State your data and research question(s):**      
+
+How top tennis players group together based on their statistics in best of 5 matches using PCA and cluster analysis (kmeans and hierarchical clustering) and  also explore how clusters of players differ by surface (clay, hard, carpet or grass). 
 
  **Indicate why it is important:**      
 
